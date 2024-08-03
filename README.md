@@ -1,1 +1,1 @@
-# api-inference
+# API inference
