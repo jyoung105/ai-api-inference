@@ -1,0 +1,155 @@
+{
+    "prompts": [
+      {
+        "id": 1,
+        "title": "Western Man on the Move",
+        "prompt": "A confident western man in a tailored navy suit and polished leather shoes, walking down a bustling urban boulevard at golden hour, with crisp, photorealistic details and a soft cityscape in the background."
+      },
+      {
+        "id": 2,
+        "title": "Vintage Western Woman",
+        "prompt": "A graceful western woman in a vintage floral dress and wide-brimmed hat, posing on a sunlit cobblestone street with a gentle bokeh effect, captured in natural, warm light."
+      },
+      {
+        "id": 3,
+        "title": "Modern Asian Man",
+        "prompt": "A dynamic asian man in smart-casual attire with subtle cultural accents, standing before a neon-lit urban backdrop at dusk, featuring high contrast lighting and a touch of cinematic flair."
+      },
+      {
+        "id": 4,
+        "title": "Chic Asian Woman",
+        "prompt": "A poised asian woman with a modern bob haircut, dressed in a minimalist blazer and statement accessories, set in an urban setting with vibrant street art and soft ambient light."
+      },
+      {
+        "id": 5,
+        "title": "Rugged Western Portrait",
+        "prompt": "A rugged western man with a neatly trimmed beard and weathered leather jacket, leaning casually against a vintage motorcycle on a scenic country road at sunset, emphasizing natural textures and detailed lighting."
+      },
+      {
+        "id": 6,
+        "title": "Serene Western Lady",
+        "prompt": "A relaxed western woman with flowing hair and elegant accessories, captured candidly at an outdoor cafe with dappled sunlight and a softly blurred background, highlighting her gentle expression."
+      },
+      {
+        "id": 7,
+        "title": "Urban Asian Profile",
+        "prompt": "A striking portrait of an asian man in contemporary casual wear, with a focus on his thoughtful gaze and subtle cultural jewelry, set against a blurred yet dynamic urban backdrop."
+      },
+      {
+        "id": 8,
+        "title": "Fusion Fashion",
+        "prompt": "A vibrant portrait of an asian woman blending traditional and modern styles—wearing a fusion outfit of classic patterns and modern cuts—in a softly lit studio that accentuates delicate details."
+      },
+      {
+        "id": 9,
+        "title": "Cross-Cultural Duo",
+        "prompt": "A group portrait featuring a western man and an asian woman, both exuding modern confidence and style, positioned in a sleek minimalist interior with balanced lighting and clear depth."
+      },
+      {
+        "id": 10,
+        "title": "Dynamic Interaction",
+        "prompt": "A lively scene capturing an asian man and a western woman interacting in an urban park, their expressions animated and full of energy, with layered details that emphasize both foreground and background elements."
+      },
+      {
+        "id": 11,
+        "title": "Sunrise Over Western Mountains",
+        "prompt": "A breathtaking western landscape at sunrise featuring rugged mountains, expansive plains, and a gently winding river, all bathed in warm, soft light with photorealistic clarity."
+      },
+      {
+        "id": 12,
+        "title": "Japanese Garden Serenity",
+        "prompt": "A serene asian nature scene set in a traditional Japanese garden—complete with a koi pond, manicured bonsai trees, and delicate cherry blossoms under a pastel sky."
+      },
+      {
+        "id": 13,
+        "title": "Desert Dusk Drama",
+        "prompt": "A dramatic western desert scene at dusk, where expansive sand dunes meet a vibrant sky transitioning from orange to deep blue, highlighted by dynamic shadows and intense contrast."
+      },
+      {
+        "id": 14,
+        "title": "Moonlit Bamboo Forest",
+        "prompt": "A mystical asian bamboo forest at night, softly illuminated by moonlight with subtle glows from fireflies, evoking a tranquil yet mysterious dark atmosphere."
+      },
+      {
+        "id": 15,
+        "title": "Rolling Western Countryside",
+        "prompt": "A sunlit western countryside with rolling green hills, patchwork farmlands, and a clear blue sky, rendered in crisp details that celebrate natural light and expansive space."
+      },
+      {
+        "id": 16,
+        "title": "Dreamy Mountain Mist",
+        "prompt": "An ethereal asian mountain landscape at dawn, featuring mist-covered peaks and reflective lakes with soft, diffused light breaking through a cloudy sky, creating a dreamlike atmosphere."
+      },
+      {
+        "id": 17,
+        "title": "Coastal Cliff Bright Day",
+        "prompt": "A vibrant western coastal scene at midday, with dramatic cliffs overlooking crashing waves, rugged rock formations, and a brilliant, clear sky accentuated by natural sunlight."
+      },
+      {
+        "id": 18,
+        "title": "Enigmatic Forest Shadows",
+        "prompt": "A dark and moody asian forest with towering trees, rolling fog, and mysterious shadows under a starlit sky, evoking an enigmatic and immersive atmosphere."
+      },
+      {
+        "id": 19,
+        "title": "Prairie Sunset Splendor",
+        "prompt": "A lively western prairie awash in the radiant glow of sunset, with wildflowers, tall grasses, and long, dynamic shadows cast over the landscape in high-resolution detail."
+      },
+      {
+        "id": 20,
+        "title": "Twilight Lakeside Tranquility",
+        "prompt": "A calm asian lakeside scene at twilight, featuring a reflective water surface, a distant traditional pagoda, and soft, muted colors that evoke serene and contemplative vibes."
+      },
+      {
+        "id": 21,
+        "title": "Futuristic Cityscape Painting",
+        "prompt": "A digital painting of a futuristic cityscape with vibrant neon hues, dynamic brushstrokes, and intricate architectural details that blend realism with a surreal twist."
+      },
+      {
+        "id": 22,
+        "title": "Whimsical Forest Illustration",
+        "prompt": "An elegant hand-drawn illustration of a whimsical forest populated by playful creatures and delicate foliage, rendered in soft pastel colors and a storybook style."
+      },
+      {
+        "id": 23,
+        "title": "Minimalist 3D Icon – Mountain & Sun",
+        "prompt": "A sleek 3D icon design featuring a minimalist logo of a mountain silhouette with a rising sun, designed with sharp edges, subtle gradients, and a modern aesthetic."
+      },
+      {
+        "id": 24,
+        "title": "Abstract Geometric 2D Composition",
+        "prompt": "An abstract 2D artwork composed of bold geometric shapes and vivid color contrasts, layered with textured gradients and dynamic lines to evoke movement and energy."
+      },
+      {
+        "id": 25,
+        "title": "Mythical Creature Digital Painting",
+        "prompt": "A richly detailed digital painting of a mythical creature, blending elements of fantasy and realism with dramatic lighting, textured brushstrokes, and a surreal background."
+      },
+      {
+        "id": 26,
+        "title": "Cosmic Landscape Illustration",
+        "prompt": "A vibrant illustration of a cosmic landscape filled with surreal planets, swirling nebulae, and whimsical stars, rendered in bold graphic style with high energy."
+      },
+      {
+        "id": 27,
+        "title": "Tech-Inspired 3D Icon Set",
+        "prompt": "A modern 3D icon set inspired by technology, featuring clean lines, smooth surfaces, and a harmonious color scheme designed for a futuristic user interface."
+      },
+      {
+        "id": 28,
+        "title": "Fluid Abstract 2D Art",
+        "prompt": "An abstract 2D digital art piece with fluid forms, dynamic gradients, and layered transparency, creating a visually striking composition that feels both organic and modern."
+      },
+      {
+        "id": 29,
+        "title": "Urban Park Watercolor Illustration",
+        "prompt": "A delicate watercolor painting-style illustration of a serene urban park, where soft brushstrokes and a muted color palette blend traditional art with subtle modern design elements."
+      },
+      {
+        "id": 30,
+        "title": "Mixed-Media Fusion Art",
+        "prompt": "A mixed-media digital illustration combining 3D elements and abstract 2D textures, emphasizing vibrant colors and innovative design techniques to create a striking fusion of styles."
+      }
+    ]
+  }
+  
